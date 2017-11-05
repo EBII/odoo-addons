@@ -1,6 +1,6 @@
 var map ;
 
-openerp.gps_base = function(instance) {
+odoo.gps_base = function(instance) {
 
     var QWeb = instance.web.qweb;
     var _t = instance.web._t;
